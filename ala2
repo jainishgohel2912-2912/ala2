@@ -1,0 +1,7 @@
+def add_numbers(x, y):
+    if True:   # simple IF used (always true)
+        result = x + y
+        return result
+
+# Example
+print(add_numbers(5, 7))
